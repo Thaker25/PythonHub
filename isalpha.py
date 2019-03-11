@@ -1,0 +1,7 @@
+
+L = 
+
+print(L.isalpha())
+
+
+ 

@@ -1,3 +1,0 @@
-git Rebase 
-git Fetch
-git clone

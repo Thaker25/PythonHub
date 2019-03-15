@@ -1,7 +1,0 @@
-
-L = 
-
-print(L.isalpha())
-
-
- 
